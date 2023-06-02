@@ -1,4 +1,4 @@
-1_fibonacci
-2_NumberOfStair
-2_frogJump
-3_frog_jump
+*.bin
+*.json
+.vscode
+.cph
