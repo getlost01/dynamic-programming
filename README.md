@@ -20,7 +20,7 @@ You can my progess on LeetCode profile [here](https://leetcode.com/gl01/) & Code
 #### Part 7 : MCM DP | Partition DP
 ![](https://geps.dev/progress/0?dangerColor=81c784&warningColor=ffb74d&successColor=81c784)
 #### Part 8 : DP on Squares
-![](https://geps.dev/progress/0?dangerColor=81c784&warningColor=ffb74d&successColor=81c784)
+![](https://geps.dev/progress/100?dangerColor=81c784&warningColor=ffb74d&successColor=81c784)
 
 
 ## Contributions and Collaboration
